@@ -59,5 +59,5 @@
 		if(document.getElementById("show-ad") != undefined){
 			document.getElementById("show-ad").innerHTML = '';
 		}
-	}, 2000)
+	}, 2000) // change if you pc is slow ( lower number more speed update )
 })();
